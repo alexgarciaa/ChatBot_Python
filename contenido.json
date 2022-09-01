@@ -1,0 +1,21 @@
+{"contenido":[
+    {"tag":"saludo",
+        "patrones":["hola","un saludo", "hello"],
+        "respuestas":["Hola que tal","Como te va?","Un gusto verte"]
+    },
+    {
+        "tag":"despedida",
+        "patrones":["adios","hasta luego","chao"],
+        "respuestas":["cuidate","te estaré esperando","nos vemos pronto"]
+    },
+    {
+        "tag":"desayuno",
+        "patrones":["desayuno","","quiero tu chiffon"],
+        "respuestas":["rico desayuno","rico chiffon","voy por el cafe"]
+    }
+   
+   
+
+]
+
+}
